@@ -86,10 +86,13 @@ header:after{
 .function-images {
   display: flex;
   justify-content: center;
-  gap: 10px 20px;
+  gap: 10px;
+  width: 100%;
 }
 
 .function-image {
+
+ margin: 60px;
 }
 /* ここまでがfunction部分の実装 */
 
